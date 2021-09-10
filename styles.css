@@ -76,8 +76,8 @@ hr {
     height: 200px;
 }
 .mo{
-    width: 1000px;
-    height: 300px;
+    width: 62.5rem;
+    height: 18.75rem;
 }
 .sketch {
     width: 25%;
@@ -93,12 +93,12 @@ hr {
 }
 .top-cloud {
     position: absolute;
-    right: 100px;
+    right: 6.25rem;
     top: 0px;
 }
 .bottom-cloud {
     position: absolute;
-    left: 100px;
+    left: 6.25rem;
     top: 200px;
 }
 .hey{
