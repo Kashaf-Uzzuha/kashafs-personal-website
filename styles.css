@@ -99,7 +99,7 @@ hr {
 .bottom-cloud {
     position: absolute;
     left: 10%;
-    top: 500px;
+    bottom: 500px;
 }
 .hey{
     color: #40514E;
